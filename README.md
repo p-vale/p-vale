@@ -7,3 +7,5 @@ I’m currently learning:
 - advanced css to make the previous points pretty :sparkles:
 
 I’m looking to collaborate on data journalism and open source projects.<br>
+
+Contacts: [LinkedIn](https://www.linkedin.com/in/valentinapezzi)
